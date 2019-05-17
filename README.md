@@ -1,2 +1,0 @@
-# Chessgame
-C# game project
